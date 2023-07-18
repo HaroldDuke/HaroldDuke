@@ -12,7 +12,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img
@@ -128,7 +127,7 @@
   </a>
   <a href="https://airflow.apache.org" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/apache_airflow/9c14446f-4cdc-4b19-9290-c753fc20fb2a.svg"
+      src="https://www.vectorlogo.zone/logos/apache_airflow/images/9c14446f-4cdc-4b19-9290-c753fc20fb2a.svg"
       alt="airflow"
       width="40"
       height="40"
@@ -283,6 +282,7 @@
     />
   </a>
 </p>
+
 
 
 
