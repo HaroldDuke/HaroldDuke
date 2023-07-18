@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Harold</h1>
-<h3 align="center">I am passionate about technology, the Internet of Things (IoT), data science, video games, and more. I have extensive experience in full-stack development, providing scalable solutions for various technological challenges. I have ventured into data science, AI, and machine learning, starting with web development and the gaming industry, creating captivating interactive experiences. Big data is one of my strong points, including database management and extracting meaningful information. I am constantly learning and exploring new technologies to stay up-to-date. Collaborating on innovative and challenging projects is my passion, contributing to the growth of the tech community. I am open to exciting opportunities and exchanging ideas. Feel free to contact me!</h3>
+<h1>Hi 👋, I'm Harold</h1>
+<h3>I am passionate about technology, the Internet of Things (IoT), data science, video games, and more. </h3>
+<h3>I have extensive experience in full-stack development, providing scalable solutions for various technological challenges. </h3>
+<h3>I have ventured into data science, AI, and machine learning, starting with web development and the gaming industry, creating captivating interactive experiences. Big data is one of my strong points, including database management and extracting meaningful information. I am constantly learning and exploring new technologies to stay up-to-date.</h3>
+<h3>Collaborating on innovative and challenging projects is my passion, contributing to the growth of the tech community. </h3>
+<h3>I am open to exciting opportunities and exchanging ideas. Feel free to contact me!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haroldduke&label=Profile%20views&color=0e75b6&style=flat" alt="haroldduke" /> </p>
 
